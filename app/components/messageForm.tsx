@@ -34,7 +34,7 @@ export default function MessageForm() {
     }
 
     const resetForm = () => {
-        setFormData({ message: "", name: "", email: "", phone: "" });
+        setFormData({ message: "", name: "", email: "" });
     }
 
     const isEmailValid = (email: string) => {
