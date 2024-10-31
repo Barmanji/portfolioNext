@@ -46,7 +46,9 @@ export default async function ProjectsPage() {
             Projects
           </h2>
           <p className="mt-4 text-zinc-400">
-            Some of the projects that i have worked upon.
+            Some of the projects that i have worked upon.<br/>
+
+                        ..//UNDER CONSTRUCTION//..
           </p>
         </div>
          </div>
