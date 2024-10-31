@@ -13,12 +13,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Barmanji.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "Software Craftsman, Dating NEXT.js & TypeScript",
     url: "https://barmanji.com",
     siteName: "barmanji.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://barmanji.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/favicon2.png",
   },
 };
 const inter = Inter({
