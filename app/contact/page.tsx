@@ -95,13 +95,13 @@ return (
 				</h2>
 				<div className="w-full h-px bg-zinc-800 mb-5" />
 				<div className="flex items-center flex-col w-screen gap-5 mb-6">
-					<div className="grid grid-cols-1 lg:grid-cols-3 w-full md:pl-32 md:pr-32 gap-5">
+					<div className="grid grid-cols-1 lg:grid-cols-3 w-full md:pl-32 md:pr-32 gap-5 ">
 						{/* LinkedIn */}
 						<Card>
 							<Link
 								href={socials[0].href}
 								target="_blank"
-								className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-8 md:pb-8 lg:pb-24 md:p-16"
+								className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-8 md:pb-8 lg:pb-24 md:p-16 "
 							>
 								<span
 									className="absolute w-px h-2/3 bg-gradient-to-b from-zinc-500 via-zinc-500/50 to-transparent"

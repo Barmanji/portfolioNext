@@ -29,14 +29,13 @@ export default function Home() {
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={200}
       />
-        <h1 className="text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
+        <h1 className="text-4xl py-2 text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
         Barmanji
       </h1>
 
             <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
             <div className="my-12 text-center animate-fade-in">
                 <h2 className="text-1xl text-zinc-500 text-center">
-
                     <span className="relative group">
                         Namaste
                         <span className="absolute left-1/2 transform -translate-x-1/2 -translate-y-6 opacity-0 group-hover:opacity-100 group-hover:-translate-y-10 transition-all duration-300 text-2xl text-zinc-700">
@@ -74,7 +73,15 @@ export default function Home() {
                     </span >, but your partner in creativity! Got an idea? Let's make it real. Your vision, my code – <span className="group relative text-pink-600 transition duration-500 hover:brightness-125">
                         let's cook up something amazing!
                     </span><br /><br />
-                    Flying through code blazingly fast in <span className="font-bold">NeoVim | Arch BTW</span>.
+
+                    <p>
+                        Flying through code blazingly fast in{" "}
+                        <span className="font-bold">
+                            <span className="block sm:inline">NeoVim</span>
+                                <span className="hidden md:inline"> | </span>
+                            <span className="block sm:inline">Arch BTW</span>
+                        </span>
+                    </p>
                 </h2>
             </div>
         </div>
