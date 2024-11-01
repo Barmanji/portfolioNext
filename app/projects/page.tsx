@@ -46,7 +46,7 @@ export default async function ProjectsPage() {
             Projects
           </h2>
           <p className="mt-4 text-zinc-400">
-            Some of the projects are academic and some are on my own time.
+            My work treasure! Mostly are hobby projects, also hosted.<span className="text-red-500"> ENJOY & EXPLORE! </span>
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
