@@ -71,8 +71,8 @@ export default function Home() {
                     </Link><br />
                     Not just a <span className="relative group text-yellow-500 transition duration-500 hover:text-yellow-300">
                         FullStack Developer
-                    </span >, but your partner in creativity! Got an idea? Let's make it real. Your vision, my code –<span className="group relative text-pink-600 transition duration-500 hover:brightness-125">
-                        let's   cook up something amazing!
+                    </span >, but your partner in creativity! Got an idea? Let's make it real. Your vision, my code – <span className="group relative text-pink-600 transition duration-500 hover:brightness-125">
+                        let's cook up something amazing!
                     </span><br /><br />
                     Flying through code blazingly fast in <span className="font-bold">NeoVim | Arch BTW</span>.
                 </h2>
