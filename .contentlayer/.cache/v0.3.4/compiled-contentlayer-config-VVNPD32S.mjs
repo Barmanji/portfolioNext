@@ -38,6 +38,12 @@ var Project = defineDocumentType(() => ({
     },
     repository: {
       type: "string"
+    },
+    mobileSupported: {
+      type: "boolean"
+    },
+    desktopSupported: {
+      type: "boolean"
     }
   },
   computedFields
@@ -98,4 +104,4 @@ export {
   Project,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-AD7PLTJR.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-VVNPD32S.mjs.map

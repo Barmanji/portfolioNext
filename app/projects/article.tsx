@@ -37,8 +37,8 @@ export const Article: React.FC<Props> = ({ project, views }) => {
 				</p>
 				<p className="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">
 					<span className="font-bold text-sm">Best Experience on</span>
-					{project.mobileSupported && <Smartphone className="inline-block w-4 h-4 ml-2" color="#33d49a" />}
-					{project.desktopSupported && <Monitor className="inline-block w-4 h-4 ml-2" color="#33d49a" />}
+					{project.mobileSupported && <Smartphone className="inline-block w-4 h-4 ml-2" color="#e11d48" />}
+					{project.desktopSupported && <Monitor className="inline-block w-4 h-4 ml-2" color="#e11d48" />}
 				</p>
 			</article>
 		</Link>
