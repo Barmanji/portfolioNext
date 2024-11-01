@@ -43,9 +43,25 @@ export default function Home() {
                             🙏
                         </span>
                     </span>
-                    , I am <span className="underline duration-500 hover:text-zinc-300"
-                    >Ajay Barman</span> (also known as <span className="font-bold">Barmanji</span>) a software craftsman based in <span className="underline duration-500 hover:text-zinc-300"
-                    >India</span>. Currently dating{" "}
+                    , I am  <Link
+                        target="_blank"
+                        href="https://www.linkedin.com/in/ajay-barman-0b37011a7/"
+                        className="underline duration-500 hover:text-zinc-300"
+                    >
+                        Ajay Barman{" "}
+                    </Link> (also known as <Link
+                        target="_blank"
+                        href="https://github.com/Barmanji/"
+                        className="font-bold duration-500 hover:text-zinc-300"
+                    >
+                        Barmanji{" "}
+                    </Link>) a software craftsman based in <Link
+                        target="_blank"
+                        href="https://www.g20.in"
+                        className="font-bold duration-500 hover:text-zinc-300"
+                    >
+                        India{" "}
+                    </Link>. Currently dating{" "}
                     <Link
                         target="_blank"
                         href="https://nextjs.org/"
@@ -53,7 +69,11 @@ export default function Home() {
                     >
                         NEXT.js{" "}
                     </Link><br />
-                    Not just a FullStack Developer, but your partner in creativity! Got an idea? Let's make it real. Your vision, my code – let's cook up something amazing!<br /><br />
+                    Not just a <span className="relative group text-yellow-500 transition duration-500 hover:text-yellow-300">
+                        FullStack Developer
+                    </span >, but your partner in creativity! Got an idea? Let's make it real. Your vision, my code –<span className="group relative text-pink-600 transition duration-500 hover:brightness-125">
+                        let's   cook up something amazing!
+                    </span><br /><br />
                     Flying through code blazingly fast in <span className="font-bold">NeoVim | Arch BTW</span>.
                 </h2>
             </div>
