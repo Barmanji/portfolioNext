@@ -29,7 +29,7 @@ export default function Home() {
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={200}
       />
-        <h1 className="text-4xl py-2 text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
+        <h1 className="text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
         Barmanji
       </h1>
 
@@ -53,13 +53,13 @@ export default function Home() {
                         href="https://github.com/Barmanji/"
                         className="font-bold duration-500 hover:text-zinc-300"
                     >
-                        Barmanji{" "}
+                        Barmanji
                     </Link>) a software craftsman based in <Link
                         target="_blank"
                         href="https://www.g20.in"
                         className="font-bold duration-500 hover:text-zinc-300"
                     >
-                        India{" "}
+                        India
                     </Link>. Currently dating{" "}
                     <Link
                         target="_blank"
