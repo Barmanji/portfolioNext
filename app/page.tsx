@@ -29,7 +29,7 @@ export default function Home() {
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={200}
       />
-        <h1 className="text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
+        <h1 className="text-4xl py-3 text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
         Barmanji
       </h1>
 
