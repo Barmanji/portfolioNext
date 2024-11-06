@@ -5,5 +5,7 @@ import projects__dummyMdx from './projects__dummy.mdx.json' assert { type: 'json
 import projects__megablogMdx from './projects__megablog.mdx.json' assert { type: 'json' }
 import projects__todov1Mdx from './projects__todov1.mdx.json' assert { type: 'json' }
 import projects__vbarmanBdayMdx from './projects__vbarman-bday.mdx.json' assert { type: 'json' }
+import projects__currency_converterMdx from './projects__currency_converter.mdx.json' assert { type: 'json' }
+import projects__dotfilesMdx from './projects__dotfiles.mdx.json' assert { type: 'json' }
 
-export const allProjects = [projects__barmanjiComMdx, projects__dummyMdx, projects__megablogMdx, projects__todov1Mdx, projects__vbarmanBdayMdx]
+export const allProjects = [projects__barmanjiComMdx, projects__dummyMdx, projects__megablogMdx, projects__todov1Mdx, projects__vbarmanBdayMdx, projects__currency_converterMdx, projects__dotfilesMdx]
