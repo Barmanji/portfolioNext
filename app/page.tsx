@@ -30,7 +30,7 @@ export default function Home() {
         quantity={200}
       />
         <h1 className="text-4xl py-3 text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text">
-        Barmanji
+        Ajay Barman
       </h1>
 
             <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
