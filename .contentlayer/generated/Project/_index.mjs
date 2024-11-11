@@ -2,6 +2,7 @@
 
 import projects__barmanjiComMdx from './projects__barmanji.com.mdx.json' assert { type: 'json' }
 import projects__birthdayWondersMdx from './projects__birthdayWonders.mdx.json' assert { type: 'json' }
+import projects__cashRegisterManagerMdx from './projects__cashRegisterManager.mdx.json' assert { type: 'json' }
 import projects__currency_converterMdx from './projects__currency_converter.mdx.json' assert { type: 'json' }
 import projects__dotfilesMdx from './projects__dotfiles.mdx.json' assert { type: 'json' }
 import projects__dummyMdx from './projects__dummy.mdx.json' assert { type: 'json' }
@@ -13,6 +14,5 @@ import projects__reactRouterPracMdx from './projects__reactRouterPrac.mdx.json' 
 import projects__todov1Mdx from './projects__todov1.mdx.json' assert { type: 'json' }
 import projects__todov2Mdx from './projects__todov2.mdx.json' assert { type: 'json' }
 import projects__vbarmanBdayMdx from './projects__vbarman-bday.mdx.json' assert { type: 'json' }
-import projects__cashRegisterManagerMdx from './projects__cashRegisterManager.mdx.json' assert { type: 'json' }
 
-export const allProjects = [projects__barmanjiComMdx, projects__birthdayWondersMdx, projects__currency_converterMdx, projects__dotfilesMdx, projects__dummyMdx, projects__firstProjectMdx, projects__megablogMdx, projects__passwordGeneratorMdx, projects__profitOrLossMdx, projects__reactRouterPracMdx, projects__todov1Mdx, projects__todov2Mdx, projects__vbarmanBdayMdx, projects__cashRegisterManagerMdx]
+export const allProjects = [projects__barmanjiComMdx, projects__birthdayWondersMdx, projects__cashRegisterManagerMdx, projects__currency_converterMdx, projects__dotfilesMdx, projects__dummyMdx, projects__firstProjectMdx, projects__megablogMdx, projects__passwordGeneratorMdx, projects__profitOrLossMdx, projects__reactRouterPracMdx, projects__todov1Mdx, projects__todov2Mdx, projects__vbarmanBdayMdx]
