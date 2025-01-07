@@ -6,7 +6,7 @@ const navigation = [
     { name: "Projects", href: "/projects" },
     { name: "Contacts", href: "/contact" },
     { name: "Resume", href: "/resume" },
-    {name: "Skill & Testimonial", href: "/testimonial"},
+    {name: "Credentials", href: "/credentials"},
 ];
 
 export default function Home() {
