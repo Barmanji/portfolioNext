@@ -15,5 +15,6 @@ import projects__reactRouterPracMdx from './projects__reactRouterPrac.mdx.json' 
 import projects__todov1Mdx from './projects__todov1.mdx.json' assert { type: 'json' }
 import projects__todov2Mdx from './projects__todov2.mdx.json' assert { type: 'json' }
 import projects__vbarmanBdayMdx from './projects__vbarman-bday.mdx.json' assert { type: 'json' }
+import projects__calculatorMdx from './projects__calculator.mdx.json' assert { type: 'json' }
 
-export const allProjects = [projects__bananatalkMdx, projects__barmanjiComMdx, projects__birthdayWondersMdx, projects__cashRegisterManagerMdx, projects__currency_converterMdx, projects__dotfilesMdx, projects__dummyMdx, projects__firstProjectMdx, projects__megablogMdx, projects__passwordGeneratorMdx, projects__profitOrLossMdx, projects__reactRouterPracMdx, projects__todov1Mdx, projects__todov2Mdx, projects__vbarmanBdayMdx]
+export const allProjects = [projects__bananatalkMdx, projects__barmanjiComMdx, projects__birthdayWondersMdx, projects__cashRegisterManagerMdx, projects__currency_converterMdx, projects__dotfilesMdx, projects__dummyMdx, projects__firstProjectMdx, projects__megablogMdx, projects__passwordGeneratorMdx, projects__profitOrLossMdx, projects__reactRouterPracMdx, projects__todov1Mdx, projects__todov2Mdx, projects__vbarmanBdayMdx, projects__calculatorMdx]
