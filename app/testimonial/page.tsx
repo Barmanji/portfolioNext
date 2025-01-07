@@ -12,8 +12,7 @@ export default function Home() {
   return (
     <div>
 
-      <h1 className="text-white ">My tech stack</h1>
-            <p className='text-white'> I constantly try to improve</p>
+            <p className='text-white text-center'><span className='text-5xl'> -------------------- UNDER CONSTRUCITON -------------------- <br/></span>I constantly try to improve</p>
     </div>
   );
 }
